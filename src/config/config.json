@@ -1,14 +1,14 @@
 {
   "site": {
-    "title": "Bookworm Light Astro | Blog Template",
-    "base_url": "https://bookworm-light-astro.vercel.app",
+    "title": "Diego Guisande | Personal Blog",
+    "base_url": "https://diegotechblog.netlify.app",
     "base_path": "/",
     "trailing_slash": false,
-    "favicon": "/images/favicon.png",
-    "logo": "/images/logo.png",
+    "favicon": "images/android-chrome-512x512.png",
+    "logo": "/images/diego-black-journal-logo.png",
     "logo_width": "200",
-    "logo_height": "34",
-    "logo_text": "Bookworm Light"
+    "logo_height": "120",
+    "logo_text": "DiegoTech"
   },
 
   "settings": {
@@ -17,9 +17,9 @@
   },
 
   "metadata": {
-    "meta_author": "Themefisher",
+    "meta_author": "Diego Guisande",
     "meta_image": "/images/og-image.png",
-    "meta_description": "Bookworm Light Astro Blog Template"
+    "meta_description": "Diego Guisande DiegoTech Blog website"
   },
 
   "params": {

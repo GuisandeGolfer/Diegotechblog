@@ -15,6 +15,6 @@ Before I get into the topics and ideas that I will be exploring, I should let yo
 
 ## Who Am I?
 
-> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+> To be determined
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+I am building out my content and what exactly I am going to write about. I wanted to at least publish this site so I can get the ball rolling. Thank you for tuning in so far, and I am excited to have you here.
