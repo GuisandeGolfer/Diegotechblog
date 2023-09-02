@@ -14,7 +14,7 @@ draft: false
 - a lot of things has brought me to this point.
 - Organizing digital notes can be very powerful.
 - I am here to share what I have been organizing.
-- you should read [ this book ](https://amzn.to/3L2Vs9h).
+- you should read [_Building a Second Brain_](https://amzn.to/3L2Vs9h)
 - Thank you for reading this.
 
 ---
@@ -130,6 +130,10 @@ Pick a tool, stick to it for 60 days and after 60 days, if there is still a lot 
 If you want a video series describing this process, I recommend Tiago Forte's beginner series on Youtube. **Start here**
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/f3dDVtJ2sec?si=7sC6i5G1ISV_ZGmS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+if you want to skip right to the book, you can find it on Amazon below:
+
+<a href="https://www.amazon.com/Building-Second-Brain-Organize-Potential-ebook/dp/B09LVVN9L3?crid=3N5UUYJ1K982A&keywords=building+a+second+brain&qid=1693692018&sprefix=building+a+second+brain%2Caps%2C269&sr=8-1&linkCode=li3&tag=diegoblog88-20&linkId=821e3e25ccd4c670e4bba8bd9ab4c082&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B09LVVN9L3&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=diegoblog88-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=diegoblog88-20&language=en_US&l=li3&o=1&a=B09LVVN9L3" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 ### Expressing Gratitude
 
