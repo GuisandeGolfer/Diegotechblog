@@ -2,7 +2,7 @@
 title: "How I conquered Analysis Paralysis"
 description: "How anyone can easily move past the idea of perfection, and lean into action."
 date: 2023-09-03
-image: "/images/posts/minimalist-dark-desktop.png"
+image: "/images/posts/paralysis-banner.png"
 categories: ["mindset, productivity, analysis paralysis, momentum"]
 authors: ["Diego Guisande"]
 tags: ["productivity", "mindset", "self-improvement"]
